@@ -1,0 +1,1 @@
+animatedApp.init('myCanvas')

@@ -1,0 +1,8 @@
+drawingApp.init('myCanvas')
+// drawingApp.drawFilledSquare()
+// drawingApp.drawLinearSquare()
+// drawingApp.drawSolidLines()
+// drawingApp.drawDashedLine()
+// drawingApp.drawArc()
+// drawingApp.write('Popino the best doggy')
+drawingApp.insertImage('ball.png')
